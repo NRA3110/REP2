@@ -23,5 +23,6 @@ public class AddressBook
 		AddressBook buddyBook = new AddressBook();
 		buddyBook.addBuddy(Jeff);
 		System.out.println(AddressBook.buddies);
+		System.out.println("Words and things");
 	}
 }
